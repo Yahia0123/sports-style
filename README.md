@@ -1,22 +1,29 @@
                                                             sports style
-Introduction :
-Good morning or good evening
-I am Yahia Khaled, a website designer, and this site is considered a very simple thing to create a store specialized in selling sports products such as sports shoes for each game separately or sports clothes for each game separately as well.
-linkedin Post: https://www.linkedin.com/posts/yahia-elshorgamy-7a9757190_sportystyle-activity-7204933480055554048-E3hI?utm_source=share&utm_medium=member_desktop
-link of the web: https://yahia0123.github.io/sports-style/
-Installation :
+- Introduction :
+Good morning or good evening. I am Yahia Khaled, a website designer, and this site is considered a very simple thing to create a store specialized in selling sports products such as sports shoes for each game separately or sports clothes for each game separately as well.
+* linkedin Post: https://www.linkedin.com/posts/yahia-elshorgamy-7a9757190_sportystyle-activity-7204933480055554048-E3hI?utm_source=share&utm_medium=member_desktop
+* link of the web: https://yahia0123.github.io/sports-style/
+- Installation :
 
 We open the site from Google
-Usage :
+
+- Usage :
+
 This site is used to sell products related to sports, each sport separately, such as sportswear, sports shoes, and balls.
-Contributing :
+
+- Contributing :
+
 Contributes to increasing sales of sports products
-Related projects : 
-nothing
-Licensing : 
+
+- Related projects : 
+
 nothing
 
-Some screenshots of the site :
+- Licensing : 
+
+nothing
+
+- Some screenshots of the site :
 
 1- Homepage 
 ![Homepage](https://github.com/Yahia0123/sports-style/assets/115810227/8bf58db5-78f0-49ad-b889-8f9179ff39aa)
